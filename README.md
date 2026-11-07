@@ -6,7 +6,21 @@
 
 A repository to be used as a resource in the wildfire area like **detection**, forecasting, and segmentation of wildfires 🔥.
 
+## How to choose the right resource
+
+Start with the task you want to address:
+
+- **Detection:** Find resources on identifying active fire or smoke in imagery or sensor data.
+- **Segmentation and mapping:** Look for pixel-level labels or methods that map fire, smoke, or burned areas.
+- **Occurrence and risk modeling:** Explore work estimating where fires may start or assessing wildfire risk.
+- **Spread forecasting:** Look for studies predicting fire progression or perimeter changes.
+- **Smoke and air quality:** Find resources focused on smoke transport or pollutant forecasting.
+- **Response and resilience:** Explore tools and research for evacuation, infrastructure protection, or recovery.
+
+Before using a resource, check its geographic coverage, input data or sensor type, labels and evaluation methods, and—for software—its license and maintenance status. Research models and forecasts should not replace official alerts or emergency guidance.
+
 ## Contents
+- [How to choose the right resource](#how-to-choose-the-right-resource)
 - [Research 🔬](#research-)
   - [Surveys & overviews](#surveys--overviews)
   - [Occurrence & risk modeling](#occurrence--risk-modeling)
@@ -191,7 +205,18 @@ Status reflects repository archival state and recent public activity when known.
 ---
 
 ## Contributing 🤝
-- If there's anything you think should be included here, you can submit an issue and I'll check it out.
+
+Suggestions for relevant papers, datasets, projects, and platforms are welcome. Please open an issue or submit a pull request, and include as much of the following information as you can:
+
+- **Resource type:** paper, dataset, project, API, or platform
+- **Title:**
+- **Topic:** detection, segmentation, forecasting, risk, smoke, response, infrastructure, or another relevant area
+- **Year:** publication or project year, if known
+- **URL:**
+- **Description:** A brief summary of what the resource provides
+- **Notes:** Region, modality, license, maintenance status, or other useful context
+
+Please use “Unknown” rather than guessing metadata, and check that links work and that any license information refers to the resource itself.
 
 ## Author
 @DRMALEK
