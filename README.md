@@ -156,28 +156,28 @@ A repository to be used as a resource in the wildfire area like **detection**, f
 
 ## Deep Learning Projects 😎
 
-Project years are approximate, based on public repository dates and publication context when exact creation dates are not directly stated.
+Status reflects repository archival state and recent public activity when known.
 
-| Project Title | Year | URL |
-|---|---:|---|
-| Collection of resources for fire-detection using Nueral nets | 2019 | https://github.com/robmarkcole/fire-detection-from-images |
-| Computer vision library for wildfire detection | 2020 | https://github.com/pyronear/pyro-vision |
-| Using U-Net Model to Detect Wildfire from Satellite Imagery | 2020 | https://github.com/yueureka/WildFireDetection |
-| Wildfire Detection with Deep Neural Networks | 2019 | https://github.com/tomek-l/fire-detect-nn |
-| Smoke-Detection-using-Tensorflow 2.2 | 2020 | https://github.com/abg3/Smoke-Detection-using-Tensorflow-2.2 |
-| Hermes is a Wildfire detection system that utilizes Computer Vision and is accelerated using NVIDIA Deepstream | 2020 | https://github.com/kn1ghtf1re/Hermes-Deepstream |
-| Predict Wildfire Intensity with Watson Studio Machine Learning | 2020 | https://github.com/IBM/predict-wildfire-intensity |
-| Fuel Gauge: open-source fixed-camera calibration, vegetation monitoring, viewshed analysis, and camera siting toolkit | 2021 | https://github.com/shourya0mehta/fuel-gauge |
+| Project Title | Year | Status | License | URL |
+|---|---:|---|---|---|
+| Collection of resources for fire-detection using Neural nets | 2019 | Active | MIT | https://github.com/robmarkcole/fire-detection-from-images |
+| Computer vision library for wildfire detection | 2019 | Archived | Apache-2.0 | https://github.com/pyronear/pyro-vision |
+| Using U-Net Model to Detect Wildfire from Satellite Imagery | 2020 | Active | CC0-1.0 | https://github.com/yueureka/WildFireDetection |
+| Wildfire Detection with Deep Neural Networks | 2019 | Active | Unknown | https://github.com/tomek-l/fire-detect-nn |
+| Smoke-Detection-using-Tensorflow 2.2 | 2020 | Active | MIT | https://github.com/abg3/Smoke-Detection-using-Tensorflow-2.2 |
+| Hermes is a Wildfire detection system that utilizes Computer Vision and is accelerated using NVIDIA Deepstream | 2020 | Active | Unknown | https://github.com/kn1ghtf1re/Hermes-Deepstream |
+| Predict Wildfire Intensity with Watson Studio Machine Learning | 2018 | Archived | Apache-2.0 | https://github.com/IBM/predict-wildfire-intensity |
+| Fuel Gauge: open-source fixed-camera calibration, vegetation monitoring, viewshed analysis, and camera siting toolkit | 2021 | Active | Other | https://github.com/shourya0mehta/fuel-gauge |
 
 ---
 
 ## APIs And Platforms 🤓
-| Project Title | URL |
-|---|---|
-| WIFIRE: Wildfire lab of University of California, San Diego | https://wifire.ucsd.edu/ |
-| Spotfire is a crowd-sourcing tool that can support real-time detection and monitoring of wildfire | https://github.com/AhmedMaghawry/SPOFI |
-| API for wildfire prevention, detection & monitoring | https://github.com/pyronear/pyro-api |
-| Detection & monitoring platform of wildfires | https://github.com/pyronear/pyro-platform |
+| Project Title | Status | License | URL |
+|---|---|---|---|
+| WIFIRE: Wildfire lab of University of California, San Diego | Active | Unknown | https://wifire.ucsd.edu/ |
+| Spotfire is a crowd-sourcing tool that can support real-time detection and monitoring of wildfire | Active | Unknown | https://github.com/AhmedMaghawry/SPOFI |
+| API for wildfire prevention, detection & monitoring | Active | Apache-2.0 | https://github.com/pyronear/pyro-api |
+| Detection & monitoring platform of wildfires | Archived | Apache-2.0 | https://github.com/pyronear/pyro-platform |
 
 ---
 
