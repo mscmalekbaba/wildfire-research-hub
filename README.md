@@ -118,6 +118,7 @@ A repository to be used as a resource in the wildfire area like **detection**, f
 | General - Tabular Data | Statista: number of wildfires in South America by country | https://www.statista.com/statistics/1043895/number-wildfires-south-america-country/ |
 | General - Tabular Data | HDX: wildfires | https://data.humdata.org/dataset/wildfires?force_layout=desktop |
 | General - Tabular Data | NFDB (Canada National Fire Database) | https://cwfis.cfs.nrcan.gc.ca/ha/nfdb |
+| General - Tabular Data | Wildfire Alarm controlled-burn and field sensor recordings (PM, gas, weather, and device alerts) | https://github.com/wildfirealarm-org/data |
 
 ### Images (RGB)
 | DataSet Type | Title | URL |
@@ -134,8 +135,9 @@ A repository to be used as a resource in the wildfire area like **detection**, f
 | General - Active Fires (NRT + archive) | NASA FIRMS (MODIS/VIIRS active fire detections) | https://firms.modaps.eosdis.nasa.gov |
 | General - Remote Sensing (GEE-ready) | FIRMS in Google Earth Engine (rasterized LANCE active fire detections) | https://developers.google.com/earth-engine/datasets/catalog/FIRMS |
 | General - Burn Severity (Landsat-derived) | MTBS Burn Severity Portal (US, 1984–present) | https://burnseverity.cr.usgs.gov/products/mtbs |
-| General - Burn Severity (GEE-ready) | MTBS annual burn severity mosaics (Earth Engine catalog entry) | https://developers.google.com/earth-engine/datasets/catalog/USFS_GTAC_MTBS_annual_burn_severity_mosaics_v1 |
-| General - Fire Dynamics (global) | Global Fire Atlas (individual-fire characteristics derived from MODIS burned area) | https://www.earthdata.nasa.gov/data/catalog/ornl-cloud-cms-global-fire-atlas-1642-1 |
+| General - Burn Severity (GEE-ready) | MTBS annual burn severity mosaics (Earth Engine catalog entry) | https://developers.google.com/earth-engine/datasets/catalog/USFS_GTAC_MTBS_annual_burn_severity_v1 |
+| General - Fire Dynamics (global) | Global Fire Atlas (individual-fire characteristics derived from MODIS burned area) | https://www.earthdata.nasa.gov/data/catalog/ornl-cloud-cms-global-fire-atlas-1 |
+| General - Wildfire Spread Benchmark (Canada) | DailyWildFireCAN: daily spread dataset with satellite, weather, fuel, and topography features | https://github.com/hagerradi/DailyWildFireCAN |
 
 ### Mixed images & videos
 | DataSet Type | Title | URL |
@@ -162,6 +164,7 @@ A repository to be used as a resource in the wildfire area like **detection**, f
 | Smoke-Detection-using-Tensorflow 2.2 | https://github.com/abg3/Smoke-Detection-using-Tensorflow-2.2 |
 | Hermes is a Wildfire detection system that utilizes Computer Vision and is accelerated using NVIDIA Deepstream | https://github.com/kn1ghtf1re/Hermes-Deepstream |
 | Predict Wildfire Intensity with Watson Studio Machine Learning | https://github.com/IBM/predict-wildfire-intensity |
+| Fuel Gauge: open-source fixed-camera calibration, vegetation monitoring, viewshed analysis, and camera siting toolkit | https://github.com/shourya0mehta/fuel-gauge |
 
 ---
 
