@@ -17,6 +17,8 @@ A repository to be used as a resource in the wildfire area like **detection**, f
   - [Robotics, UAVs & active sensing](#robotics-uavs--active-sensing)
   - [Safety, evacuation & response](#safety-evacuation--response)
   - [Infrastructure resilience & prevention](#infrastructure-resilience--prevention)
+    - [Power-system mitigation](#power-system-mitigation)
+    - [Critical infrastructure](#critical-infrastructure)
 - [Datasets 📊](#datasets-)
   - [Tabular (incidents/weather/mobility)](#tabular-incidentsweathermobility)
   - [Images (RGB)](#images-rgb)
@@ -85,10 +87,17 @@ A repository to be used as a resource in the wildfire area like **detection**, f
 | EscapeWildFire: Assisting People to Escape Wildfires in Real-Time | 2021 | https://arxiv.org/pdf/2102.11558v1.pdf |
 
 ### Infrastructure resilience & prevention
+
+#### Power-system mitigation
+Research on wildfire ignition prevention and power-grid resilience, including vegetation management near lines, grid hardening, operational controls, and planned shutoffs.
+
 | Title | Year | URL |
 |---|---:|---|
 | Reinforcement Learning based Proactive Control for Transmission Grid Resilience to Wildfire | 2021 | https://arxiv.org/pdf/2107.05756v1.pdf |
 | Slash or burn: Power line and vegetation classification for wildfire prevention | 2021 | https://arxiv.org/pdf/2105.03804v1.pdf |
+
+#### Critical infrastructure
+This topic covers assessing and reducing wildfire risk to essential infrastructure such as roads, water and energy systems, and telecommunications. Relevant resources can include exposure mapping, vulnerability assessment, resilience planning, and recovery prioritization.
 
 ### Ecological impacts
 | Title | Year | URL |
